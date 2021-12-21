@@ -16,26 +16,7 @@ Universo Santa Tecla
 2.8. [Vista de Caso de Uso Resume](#vista-de-caso-de-uso-resume)  
 2.9. [Prototipo de Interfaz](#prototipo-de-interfaz)  
 2.9.1. [Consola](#consola)  
-3. [Analisis](#analisis)  
-   3.1. [Casos de Uso](#casos-de-uso)  
-      3.1.1. [Analisis Start](#analisis-start)  
-      3.1.2. [Analisis Open](#analisis-open)  
-      3.1.3. [Analisis Propose](#analisis-propose)  
-      3.1.4. [Analisis Undo](#analisis-undo)  
-      3.1.5. [Analisis Redo](#analisis-redo)  
-      3.1.6. [Analisis Exit](#analisis-exit)  
-      3.1.7. [Analisis Save](#analisis-save)  
-      3.1.8. [Analisis Resume](#analisis-resume)  
-   3.2. [Paquetes](#paquetes)  
-      3.2.1. [Vistas](#vistas)  
-      3.2.2. [Controladores](#controladores)  
-      3.2.3. [Modelos](#modelos)  
-      3.2.4. [Types](#types)  
-4. [Diseño](#diseño)  
-   4.1. [Vista de Despliegue](#vista-de-despliegue)  
-   4.2. [Vista de Participantes](#vista-de-participantes)  
-   4.3. [Vista de Interaccion de Participantes](#vista-de-interaccion-de-participantes)  
-  
+
 ## Requisitos  
 
 | * _Funcionalidad: **Básica + Undo/Redo**_<br/>  * _Interfaz: **Gráfica y Texto**_<br/>  * _Distribución: **Standalone + Client/Server**_<br/>  * _Persistencia: **Ficheros + Bases de Datos**_<br/> | ![TicTacToe](../docs/images/tictactoe.png) | 
@@ -195,57 +176,3 @@ Do you want to save the game?? (y/n): n
 Do you want to continue? (y/n):
 ```
 
-## Analisis  
-![Analisis](./docs/diagrams/out/Analisis/analisisGeneral/analisis.svg)  
-
-## Casos de Uso  
-
-### Analisis Start  
-![Start](./docs/diagrams/out/Analisis/analisisStart/start.svg)  
-
-### Analisis Open
-![Open](./docs/diagrams/out/Analisis/analisisOpen/analisisOpen.svg)
-
-### Analisis Play 
-![Play](./docs/diagrams/out/Analisis/analisisPlay/play.svg)  
-
-### Analisis Undo 
-![Play](./docs/diagrams/out/Analisis/analisisUndo/undo.svg)  
-
-### Analisis Redo 
-![Play](./docs/diagrams/out/Analisis/analisisRedo/redo.svg)  
-
-### Analisis Exit
-![Exit](./docs/diagrams/out/Analisis/analisisExit/exit.svg)
-
-### Analisis Save
-![Save](./docs/diagrams/out/Analisis/analisisSave/save.svg)
-
-### Analisis Resume  
-![Resume](./docs/diagrams/out/Analisis/analisisResume/resume.svg)  
-
-## Paquetes  
-![ShowBoard](./docs/diagrams/out/Analisis/arquitecturaPaquetes/arquitectura-paquetes.svg)  
-
-### Vistas  
-![ShowBoard](./docs/diagrams/out/Analisis/paquetesViews/packageViews.svg)  
-
-### Controladores  
-![ShowBoard](./docs/diagrams/out/Analisis/paquetesControllers/packageControllers.svg)  
-
-### Modelos  
-![ShowBoard](./docs/diagrams/out/Analisis/paquetesModels/modelspackage.svg)  
-
-### Types  
-![ShowBoard](./docs/diagrams/out/Analisis/paquetesTypes/typespackages.svg)  
-
-## Diseño  
-
-### Vista de Despliegue  
-![Despliegue](./docs/diagrams/out/Diseño/first/diseño_la_arquitectura.svg)  
-
-### Vista de Participantes  
-![Participantes](./docs/diagrams/out/Diseño/second/diseño_caso_uso.svg)  
-
-### Vista de Interaccion de Participantes  
-![Interaccion_Participantes](./docs/diagrams/out/Diseño/third/secuencia.svg)  
