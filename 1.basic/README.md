@@ -6,7 +6,7 @@ Universo Santa Tecla
 
 * [requirements](#requirements)  
 * [actorsUseCaseDiagram](#actorsUseCaseDiagram)   
-* [useCaseContextDiagram](#useCaseSpecification)
+* [useCaseContextDiagram](#useCaseContextDiagram)
 * [useCaseSpecification](#useCaseSpecification)
     * [startUseCaseSpecification](#startUseCaseSpecification)
     * [playUseCaseSpecification](#playUseCaseSpecification)
