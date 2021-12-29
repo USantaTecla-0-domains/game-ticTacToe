@@ -7,10 +7,10 @@ Universo Santa Tecla
 * [requirements](#requirements)  
 * [actorsUseCaseDiagram](#actorsUseCaseDiagram)   
 * [useCaseContextDiagram](#useCaseSpecification)
-* [useCaseSpecification](#startUseCaseSpecification)
-    * [startUseCaseSpecification](#playUseCaseSpecification)
-    * [playUseCaseSpecification](#resumeUseCaseSpecification)
-    * [resumeUseCaseSpecification](#useCaseContextDiagram)   
+* [useCaseSpecification](#useCaseSpecification)
+    * [startUseCaseSpecification](#startUseCaseSpecification)
+    * [playUseCaseSpecification](#playUseCaseSpecification)
+    * [resumeUseCaseSpecification](#resumeUseCaseSpecification)   
 * [interfacePrototype](#interfacePrototype)   
 
 ### requirements 
