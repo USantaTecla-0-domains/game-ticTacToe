@@ -1,36 +1,47 @@
-# TicTacToe
+# ticTacToe
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
   
-**Índice**
+## index
 
-1. [Modelo del dominio](#modelo-del-dominio)  
-1.1. [Vocabulario](#vocabulario)  
-1.2. [Estado inicial](#estado-inicial)  
-1.3. [Estado final. Objetivo TicTacToe en 3ª fila](#estado-final-objetivo-tictactoe-en-3ª-fila)  
-1.4. [Instrucciones](#instrucciones)  
-2. [Versiones](#versiones)
+* [domainModel](#domainModel)  
+    * [vocabulary](#vocabulary)  
+    * [initialState](#initialState)  
+    * [finalState](#finalState)
+    * [instructions](#instructions)  
+* [versions](#versions)
+    * [0.dataLanguage](./0.dataLangauges/README.md)
+    * [0.publicationLanguage](./0.publicationLanguage/README.md)
+    * [1.basic](./1.basic/README.md)
+    * [1.1.machine](./1.1.machine/README.md)
+    * [2.graphics](./2.graphics/README.md)
+    * [3.undoRedo](./3.undoRedo/README.md)
+    * [4.distributed](./3.undoRedo/README.md)
+    * [5.files](./4.files/README.md)
+    * [6.bbdd](./5.bbdd/README.md)
 
-## Modelo del dominio  
+## domainModel  
   
 ![Tictactoe](docs/images/tictactoe.png)  
   
-### Vocabulario
+### vocabulary
 
 ![Vocabulario](./docs/diagrams/out/modeloDeDominio/Vocabulario.svg)  
   
-### Estado inicial  
+### initialState  
   
 ![Estado_inicial](./docs/diagrams/out/modeloDeDominio/EstadoInicial.svg)  
   
-### Estado final. Objetivo TicTacToe en 3ª fila
+### finalState 
+
+* Objetivo TicTacToe en 3ª fila
 
 ![Estado_final](./docs/diagrams/out/modeloDeDominio/EstadoFinal.svg)  
   
-### Instrucciones  
+### instructions  
   
 ![Instrucciones](./docs/diagrams/out/modeloDeDominio/Instrucciones.svg)  
   
-## Versiones  
+## versions  
   
-![Versiones](./docs/diagrams/out/version/versiones.svg)  
+![versions](./docs/diagrams/out/versions/versions.svg)  

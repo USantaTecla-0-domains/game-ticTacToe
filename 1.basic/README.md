@@ -1,37 +1,49 @@
-# TicTacToe. Requisitos Básica
+# ticTacToe.1.basic
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
   
-**Índice**
+## useCaseView 
 
-1. [Requisitos](#requisitos)  
-2. [Vista de Casos de Uso](#vista-de-casos-de-uso)  
-2.1. [Vista de Caso de Uso Start](#vista-de-caso-de-uso-start)  
-2.2. [Vista de Caso de Uso Play](#vista-de-caso-de-uso-play)  
-2.3. [Vista de Caso de Uso Resume](#vista-de-caso-de-uso-resume)    
-2.4. [Prototipo de Interfaz](#prototipo-de-interfaz)   
+* [requirements](#requirements)  
+* [actorsUseCaseDiagram](#actorsUseCaseDiagram)   
+* [useCaseContextDiagram](#useCaseSpecification)
+* [useCaseSpecification](#startUseCaseSpecification)
+    * [startUseCaseSpecification](#playUseCaseSpecification)
+    * [playUseCaseSpecification](#resumeUseCaseSpecification)
+    * [resumeUseCaseSpecification](#useCaseContextDiagram)   
+* [interfacePrototype](#interfacePrototype)   
 
-## Requisitos  
+### requirements 
 
-| * _Funcionalidad: **Sencilla**_<br/>  * _Interfaz: **Texto**_<br/>  * _Distribución: **Standalone**_<br/>  * _Persistencia: **No**_<br/> | ![TicTacToe](../docs/images/tictactoe.png) | 
-| :------- | :------: |  
+* _glosary: **[ticTacToe](../../README.md)**_
+* _functionality: **basic**_
+* _interface: **console**_
+* _distribution: **standalone**_
+* _persistence: **not**_
 
-## Vista de Casos de Uso  
+### actorsUseCaseDiagram
 
-| Diagrama de Actores y Casos de Uso | Diagrama de Contexto |
-|---|---|
-| ![TicTacToe](./docs/diagrams/out/vistaCasosUso/actores.svg) | ![TicTacToe](./docs/diagrams/out/vistaCasosUso/contexto.svg) |  
+![TicTacToe](./docs/diagrams/out/vistaCasosUso/actores.svg)
 
-## Vista de Caso de Uso Start  
+### useCaseContextDiagram
+
+![TicTacToe](./docs/diagrams/out/vistaCasosUso/contexto.svg)
+
+### useCaseSpecification
+
+#### startUseCaseSpecification
+ 
 ![Start](./docs/diagrams/out/vistaCasosUso/StateDiagramFluxInitialState.svg)  
 
-## Vista de Caso de Uso Play  
+#### playUseCaseSpecification
+
 ![Play](./docs/diagrams/out/vistaCasosUso/StateDiagramFluxPlayState.svg)  
 
-## Vista de Caso de Uso Resume  
+#### resumeUseCaseSpecification
+
 ![Resume](./docs/diagrams/out/vistaCasosUso/resume_usecase.svg)  
 
-### Prototipo de Interfaz
+### interfacePrototype
   
 ```
 --- TIC TAC TOE ---
