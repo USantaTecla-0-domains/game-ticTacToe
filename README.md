@@ -26,7 +26,7 @@ Universo Santa Tecla
   
 ### vocabulary
 
-![Vocabulario](./docs/diagrams/out/modeloDeDominio/Vocabulario.svg)  
+![Vocabulario](.\docs\diagrams\src\actorsUseCaseDiagram\actorsUseCaseDiagram.svg)  
   
 ### initialState  
   

@@ -1,4 +1,4 @@
-@startuml Vocabulario
+@startuml vocabulary
 
 TicTacToe *-down-> "2" Player
 TicTacToe *-down-> Board
