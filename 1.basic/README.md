@@ -23,11 +23,11 @@ Universo Santa Tecla
 
 ### actorsUseCaseDiagram
 
-![TicTacToe](./docs/diagrams/out/vistaCasosUso/actores.svg)
+![TicTacToe](./docs/diagrams/out/actorsUseCaseDiagram.svg)
 
 ### useCaseContextDiagram
 
-![TicTacToe](./docs/diagrams/out/vistaCasosUso/contexto.svg)
+![TicTacToe](./docs/diagrams/out/useCaseContextDiagram.svg)
 
 ### useCaseSpecification
 
