@@ -15,7 +15,7 @@ Universo Santa Tecla
 
 ### requirements 
 
-* _glosary: **[ticTacToe](../../README.md)**_
+* _glosary: **[ticTacToe](../README.md)**_
 * _functionality: **basic**_
 * _interface: **console**_
 * _distribution: **standalone**_
@@ -23,7 +23,7 @@ Universo Santa Tecla
 
 ### actorsUseCaseDiagram
 
-![TicTacToe](./docs/diagrams/out/actorsUseCaseDiagram.svg)
+![TicTacToe](../docs\diagrams\out\__WorkspaceFolder__\1.basic\docs\actorsUseCaseDiagram\actorsUseCaseDiagram.svg)
 
 ### useCaseContextDiagram
 

@@ -22,26 +22,26 @@ Universo Santa Tecla
 
 ## domainModel  
   
-![Tictactoe](docs/images/tictactoe.png)  
+![Tictactoe](.\docs\images\tictactoe.png)  
   
 ### vocabulary
 
-![Vocabulario](.\docs\diagrams\src\actorsUseCaseDiagram\actorsUseCaseDiagram.svg)  
+![Vocabulario](.\docs\diagrams\out\vocabulary\vocabulary.svg)  
   
 ### initialState  
   
-![Estado_inicial](./docs/diagrams/out/modeloDeDominio/EstadoInicial.svg)  
+![Estado_inicial](.\docs\diagrams\out\initialState\initialState.svg)  
   
 ### finalState 
 
 * Objetivo TicTacToe en 3ª fila
 
-![Estado_final](./docs/diagrams/out/modeloDeDominio/EstadoFinal.svg)  
+![Estado_final](.\docs\diagrams\out\finalState\EstadoFinal.svg)  
   
 ### instructions  
   
-![Instrucciones](./docs/diagrams/out/modeloDeDominio/Instrucciones.svg)  
+![Instrucciones](.\docs\diagrams\out\instructions\instructions.svg)  
   
 ## versions  
   
-![versions](./docs/diagrams/out/versions/versions.svg)  
+![versions](.\docs\diagrams\out\versions\versions.svg)  
