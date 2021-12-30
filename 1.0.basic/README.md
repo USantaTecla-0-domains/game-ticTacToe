@@ -1,4 +1,4 @@
-# ticTacToe.1.basic
+# game-ticTacToe.1.0.basic
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
   
@@ -23,7 +23,7 @@ Universo Santa Tecla
 
 ### actorsUseCaseDiagram
 
-![TicTacToe](../docs\diagrams\out\__WorkspaceFolder__\1.basic\docs\actorsUseCaseDiagram\actorsUseCaseDiagram.svg)
+![actorsUseCaseDiagram](/svg/JOxB2SGm34Jlga8Df8KGI0fOTja2X3ERDTWnIF8XtUTBoF6DvWtgp4MzviGIlAXz3RqOXYYJIgQ4dxCNrZZzdSUe21xBJ4UPNqaMA5L3s1p-x5CtxSSRth2QGNGQt3JjrNu4X_3Wo-amZzj_Am00 "actorsUseCaseDiagram")
 
 ### useCaseContextDiagram
 
