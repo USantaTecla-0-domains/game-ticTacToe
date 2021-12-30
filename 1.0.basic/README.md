@@ -27,21 +27,21 @@ Universo Santa Tecla
 
 ### useCaseContextDiagram
 
-![TicTacToe](./docs/diagrams/out/useCaseContextDiagram.svg)
+![TicTacToe](../docs/diagrams/out/__WorkspaceFolder__/1.0.basic/docs/useCaseContextDiagram/useCaseContextDiagram.svg)
 
 ### useCaseSpecification
 
 #### startUseCaseSpecification
  
-![Start](./docs/diagrams/out/vistaCasosUso/StateDiagramFluxInitialState.svg)  
+![Start](../docs/diagrams/out/__WorkspaceFolder__/1.0.basic/docs/startUseCaseSpecification/startUseCaseSpecification.svg)  
 
 #### playUseCaseSpecification
 
-![Play](./docs/diagrams/out/vistaCasosUso/StateDiagramFluxPlayState.svg)  
+![Play](../docs/diagrams/out/__WorkspaceFolder__/1.0.basic/docs/playUseCaseSpecification/playUseCaseSpecification.svg)  
 
 #### resumeUseCaseSpecification
 
-![Resume](./docs/diagrams/out/vistaCasosUso/resume_usecase.svg)  
+![Resume](../docs/diagrams/out/__WorkspaceFolder__/1.0.basic/docs/resumeUseCaseSpecification/resumeUseCaseSpecification.svg)  
 
 ### interfacePrototype
   
