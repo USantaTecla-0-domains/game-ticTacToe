@@ -4,6 +4,6 @@ Universo Santa Tecla
   
 ## requirements 
 
-* Escribe con un lenguaje de publicación un tablero lo "más" parecido posible a la siguiente imagen
+* Escribe con un lenguaje de publicación (html/css, svg, ...) un tablero lo "más" parecido posible a la siguiente imagen
 
 ![Tictactoe](../docs/images/tictactoe.png) 
