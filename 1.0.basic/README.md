@@ -23,7 +23,7 @@ Universo Santa Tecla
 
 ### actorsUseCaseDiagram
 
-![TicTacToe](docs\diagrams\out\__WorkspaceFolder__\1.0.basic\docs\actorsUseCaseDiagram\actorsUseCaseDiagram.svg)
+![TicTacToe](../docs/diagrams/out/__WorkspaceFolder__/1.0.basic/docs/actorsUseCaseDiagram/actorsUseCaseDiagram.svg)
 
 ### useCaseContextDiagram
 
