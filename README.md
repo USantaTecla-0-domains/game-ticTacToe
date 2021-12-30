@@ -22,11 +22,11 @@ Universo Santa Tecla
 
 ## domainModel  
   
-![Tictactoe](.\docs\images\tictactoe.png)  
+![Tictactoe](./docs/images/tictactoe.png)  
   
 ### vocabulary
 
-![Vocabulario](.\docs\diagrams\out\vocabulary\vocabulary.svg)  
+![Vocabulario](./docs/diagrams/out/vocabulary/vocabulary.svg)  
   
 ### initialState  
   
