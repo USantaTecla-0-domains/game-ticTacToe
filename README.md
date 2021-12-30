@@ -30,18 +30,18 @@ Universo Santa Tecla
   
 ### initialState  
   
-![Estado_inicial](.\docs\diagrams\out\initialState\initialState.svg)  
+![Estado_inicial](./docs/diagrams/out/initialState/initialState.svg)  
   
 ### finalState 
 
 * Objetivo TicTacToe en 3ª fila
 
-![Estado_final](.\docs\diagrams\out\finalState\EstadoFinal.svg)  
+![Estado_final](./docs/diagrams/out/finalState/EstadoFinal.svg)  
   
 ### instructions  
   
-![Instrucciones](.\docs\diagrams\out\instructions\instructions.svg)  
+![Instrucciones](./docs/diagrams/out/instructions/instructions.svg)  
   
 ## versions  
   
-![versions](.\docs\diagrams\out\versions\versions.svg)  
+![versions](./docs/diagrams/out/versions/versions.svg)  
