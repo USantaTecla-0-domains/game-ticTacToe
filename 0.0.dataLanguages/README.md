@@ -4,7 +4,7 @@ Universo Santa Tecla
   
 ## requirements 
 
-* Modelar de dos formas alternativas mediante un lenguaje de datos (xml, json, yaml, ...) la información de la historia de la siguiente partida ... no hace falta completarlo para todos los movimientos!!!
+* Modelar de dos formas alternativas mediante un lenguaje de datos (xml, json, yaml, ...) la información de la historia de la siguiente partida ... no hace falta completarlo para todos los movimientos pero incluir algún movimiento!!!
   
 ```
 -------------
