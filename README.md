@@ -40,7 +40,9 @@ Universo Santa Tecla
   
 ### instructions  
   
-![Instrucciones](./docs/diagrams/out/instructions/instructions.svg)  
+![Instrucciones](./docs/diagrams/out/instructions/instructionsState.svg)  
+  
+![Instrucciones](./docs/diagrams/out/instructions/instructionsActivity.svg)  
   
 ## versions  
   

@@ -1,4 +1,4 @@
-@startuml instructions
+@startuml instructionsState
 
 state A as " "
 state B as " "
