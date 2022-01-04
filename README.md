@@ -23,7 +23,10 @@ Universo Santa Tecla
 ## domainModel  
   
 ![Tictactoe](./docs/images/tictactoe.png)  
-  
+
+[WIKI](https://es.wikipedia.org/wiki/Tres_en_l%C3%ADnea)
+
+[Youtube](https://www.youtube.com/watch?v=u5RFayoUqOU)
 ### vocabulary
 
 ![Vocabulario](./docs/diagrams/out/vocabulary/vocabulary.svg)  
@@ -46,4 +49,4 @@ Universo Santa Tecla
   
 ## versions  
   
-![versions](./docs/diagrams/out/versions/versions.svg)  
+![versiones](./docs/diagrams/out/versions/versions.svg)  
